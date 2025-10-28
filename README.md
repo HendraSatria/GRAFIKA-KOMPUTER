@@ -22,5 +22,19 @@ Secara keseluruhan, ketiga percobaan ini memberikan pemahaman dasar bahwa list, 
 objek pada grafika komputer. List digunakan untuk menyimpan kumpulan titik yang dapat berubah, tuple untuk titik tetap, dan dictionary untuk menyimpan atribut terstruktur
 dari suatu objek.
 
+# 🧩 Penerapan Struktur Data Python (List, Tuple, dan Dictionary)
+
+Pada praktikum ini dilakukan tiga percobaan sederhana untuk memahami penggunaan **struktur data dasar Python** yang sering digunakan dalam **pemrograman grafika komputer**, yaitu **List**, **Tuple**, dan **Dictionary**.
+
+---
+
+## 🔹 1. List — Menyimpan Kumpulan Titik
+
+![List](https://github.com/user-attachments/assets/38629cb9-7232-4786-b88c-ccc475f539f2)
+
+Gambar pertama menunjukkan hasil dari percobaan menggunakan **List**.  
+Pada program ini dibuat sebuah list berisi tiga pasangan titik koordinat:
+```python
+[(0, 0), (50, 50), (100, 0)]
 
 
