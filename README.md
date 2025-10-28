@@ -21,6 +21,6 @@ pasangan key-value, seperti atribut posisi, warna, dan ukuran pada objek grafika
 Secara keseluruhan, ketiga percobaan ini memberikan pemahaman dasar bahwa list, tuple, dan dictionary memiliki peran penting dalam pengelolaan data koordinat dan atribut
 objek pada grafika komputer. List digunakan untuk menyimpan kumpulan titik yang dapat berubah, tuple untuk titik tetap, dan dictionary untuk menyimpan atribut terstruktur
 dari suatu objek.
-<img width="848" height="543" alt="image" src="https://github.com/user-attachments/assets/d56431c3-6026-428b-90a3-1238920f12bc" />
+
 
 
