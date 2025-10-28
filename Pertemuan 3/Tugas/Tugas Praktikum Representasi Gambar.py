@@ -28,15 +28,5 @@ for i in range(steps + 1):
     x += x_inc
     y += y_inc
 
-# === 3. TABEL PERBANDINGAN RASTER vs VEKTOR ===
-print("\n=== TABEL PERBANDINGAN RASTER vs VEKTOR ===")
-print(f"{'Aspek':30} {'Raster (Grid/Piksel)':40} {'Vektor (Titik & Garis Matematis)'}")
-print("-"*110)
-print(f"{'Representasi data':30} {'Disusun dari piksel di grid':40} {'Didefinisikan oleh rumus, titik, dan garis'}")
-print(f"{'Ketika diperbesar':30} {'Gambar menjadi pecah (blur)':40} {'Gambar tetap tajam (berbasis rumus)'}")
-print(f"{'Contoh implementasi':30} {'Bitmap, foto, peta piksel':40} {'SVG, CAD, logo desain'}")
-print(f"{'Ukuran file':30} {'Lebih besar (tergantung resolusi)':40} {'Lebih kecil dan efisien'}")
-print(f"{'Pengolahan':30} {'Mudah diubah per piksel':40} {'Butuh perhitungan matematis'}")
-print(f"{'Contoh praktikum':30} {'Grid 10x10 dengan 1 piksel X':40} {'Garis (0,0) ke (5,3) dengan koordinat'}")
 
  
