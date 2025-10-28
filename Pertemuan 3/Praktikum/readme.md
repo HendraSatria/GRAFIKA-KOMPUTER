@@ -53,4 +53,5 @@ di antara keduanya dengan membagi garis menjadi beberapa segmen. Meskipun terdap
 ide utama program ini adalah menunjukkan bahwa setiap titik pada garis dapat dihitung secara proporsional menggunakan persamaan linear.
 Konsep ini menggambarkan bahwa dalam grafika vektor, gambar tidak bergantung pada jumlah piksel, tetapi pada perhitungan koordinat,
 sehingga tetap tajam dan presisi meskipun diperbesar.
+
 <img width="308" height="116" alt="image" src="https://github.com/user-attachments/assets/ec2094b4-5bed-42c5-a11e-08d4a2f43ee9" />
