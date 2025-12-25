@@ -1,3 +1,6 @@
+![malam](https://github.com/user-attachments/assets/ac938025-8067-41e6-b457-bba19f23ef36)
+
+![siang](https://github.com/user-attachments/assets/a682a6f0-e4c4-4f6b-b908-d0deb562a5c1)
 
 Mini Scene 2D – Simulasi Lingkungan Siang dan Malam Berbasis Grafika Komputer menggunakan Python Turtle.
 
