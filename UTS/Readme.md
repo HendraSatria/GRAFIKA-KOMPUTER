@@ -11,5 +11,5 @@ Program ini menggunakan beberapa algoritma dasar grafika komputer, yaitu **Algor
 **Transformasi geometri 2D** (translasi untuk pergerakan matahari, bulan, awan, dan burung; rotasi untuk sinar matahari; skala untuk animasi awan; serta refleksi untuk pantulan objek di air). Selain itu, digunakan logika **state machine** untuk mengatur pergantian mode langit (siang, malam, dan jeda kosong).
 
 **Cara Menjalankan Program**
-Pastikan Python sudah terinstal di komputer. Simpan seluruh file gambar (cloud_small.gif, cloud_medium.gif, cloud_large.gif, dan bulan.gif) dalam satu folder yang sama dengan file program Python. Jalankan program menggunakan editor seperti **Thonny**, **IDLE**, atau melalui terminal dengan perintah `python nama_file.py`. Setelah dijalankan, animasi akan berjalan otomatis menampilkan siklus siang dan malam secara terus-menerus.
+Pastikan Python sudah terinstal di komputer. Simpan seluruh file gambar (cloud_small.gif, cloud_medium.gif, cloud_large.gif, dan bulan.gif) dalam satu folder yang sama dengan file program Python. Jalankan program menggunakan editor seperti **Thonny**, **IDLE**, atau melalui terminal dengan perintah `UTS.py`. Setelah dijalankan, animasi akan berjalan otomatis menampilkan siklus siang dan malam secara terus-menerus.
 
